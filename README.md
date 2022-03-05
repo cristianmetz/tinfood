@@ -1,2 +1,1 @@
-# tinfood
-tinfood-mockup
+TinFood Starting Files
